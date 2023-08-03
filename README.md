@@ -3,7 +3,7 @@
 
 Submitted by: Javier Espinzoa
 
-Weather App is an app that... [TODO] 
+Weather App is an app that can change colors of the background when the change color button is hit
 
 Time spent: 1 hours spent in total
 
@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 
 
 
-![Walkthrough](https://imgur.com/o7ru0SE.gif)
+![Walkthrough](https://i.imgur.com/o7ru0SE.gif)
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
