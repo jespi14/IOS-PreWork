@@ -20,8 +20,7 @@ Here's a walkthrough of implemented user stories:
 
 
 
-![Walkthrough](https://imgur.com/a/SIxV51W.gif)
-
+![Walkthrough](https://imgur.com/o7ru0SE.gif)
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
